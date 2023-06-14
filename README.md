@@ -1,4 +1,4 @@
-# Welcome to CosmWasm IDE Extension
+## Welcome to CosmWasm IDE Extension
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/oraichain/vscode-cosmwasm/docs/contributing/public/cosmos-ide.png" alt="CosmWasm IDE logo"></a> &nbsp
